@@ -1,0 +1,40 @@
+header {
+    background-color: #ADD8E6;
+}
+
+header h1 {
+    color: #FF5733;
+}
+
+nav {
+    border-bottom: 2px solid black;
+}
+
+nav ul li a {
+    font-size: 18px;
+}
+
+footer {
+    text-align: center;
+}
+
+.box {
+    background-color: yellow;
+    padding: 20px;
+    
+}
+div p{
+    text-align: center;
+}
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin:  0 8px;
+}
+body {
+    background-color:violet;
+}
+
